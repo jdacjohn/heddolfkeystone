@@ -1,0 +1,14 @@
+# .gitignore 
+
+# Ignore these folders - PRE GIT
+UPDATES
+
+# Ignore these files anywhere
+*.log
+*.psd
+*.sav
+
+.DS_store
+_siteinfo
+
+vssver.scc
